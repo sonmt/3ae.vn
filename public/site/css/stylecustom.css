@@ -1,0 +1,245 @@
+
+.gioi-thieu
+{
+	display:none;
+}
+@media (max-width: 1100px) and (min-width: 768px)
+{
+	.Navigation .navbar-nav > li > a {
+		    padding: 29px 19px !important;
+	}
+}
+
+@media all and (max-width:500px)
+{
+	#SlideRestourant .carousel-inner > .item {
+		height: auto;
+		overflow: hidden;
+	}
+	.listPro .item .except {
+		height: auto;
+	
+	}
+	.mainEat
+	{
+		display:none;
+	}
+	.AddonPop 
+	{
+		display:none;
+	}
+	.titleLine {
+		font-size: 20px;
+		margin-bottom: 18px;
+		margin: 20px 0;
+	}
+	.titleLine span.line {
+		width: 40px;
+		background: transparent;
+		margin: 0 10px;
+	}
+}
+@media all and (max-width:340px){
+	.logoMobile img{
+		width:auto;margin-top: 5px;
+	}
+	
+}
+.seectLang ul li
+{
+	
+}
+.seectLang ul li ul {
+    display: none;
+    position: absolute;
+    top: 25px;
+    z-index: 1;
+    right: 12px;
+}
+.seectLang
+{
+	text-align:right;
+}
+.seectLang ul li:hover ul
+{
+	display:block;
+}
+.seectLang ul li:focus ul
+{
+	display:block;
+}
+.seectLang ul li  i
+{
+	color:#fff;
+	margin-bottom:5px;
+}
+.seectLang ul
+{
+	position:relative;
+	list-style:none;
+	margin-bottom:0;
+	padding-bottom:5px;
+}
+.formLang
+{
+	display:none;
+}
+
+.mdds-none
+{
+	display:none;
+}
+.AddonPop 
+{
+	display:none;
+}
+@media (max-width: 1200px)
+{
+	.Navigation .navbar-nav > li > a {
+    color: #000;
+    font-weight: 400;
+    padding: 30px 14px;
+}
+}
+@media (max-width: 980px)
+{
+	.ds-block98
+	{
+		display:block;
+	}
+}
+@media (max-width: 1000px)
+{
+	.logoMobile {
+		text-align: center;
+		padding: 5px 0;
+		
+		background: #1F2537;
+	}
+	.Restourant .InfoRes .logoContent {
+
+		display: none;
+	}
+	#navMobile {
+		position: fixed;
+		background: #fff;
+		left: 0;
+		height: 100%;
+		top: 1px;
+		padding: 0;
+		width:100%;
+	}
+	#navClose span {
+		margin-left: 27px;
+	}
+}
+@media (max-width: 1100px) and (min-width: 850px)
+{
+	body.an_theme1_1 .sf-menu>li>a {
+		padding: 14px;
+		font-size: 17px;
+		font-weight: bold;
+		color: #ffffff;
+	}
+}
+@media (max-width: 1000px) and (min-width: 980px)
+{
+	#navMobile {
+		position: relative;
+	}
+	.MenuFixel {
+		top: 0 !important;
+		position: relative !important;
+	}
+}
+@media (max-width: 850px) and (min-width: 768px)
+{
+	body.an_theme1_1 .sf-menu>li>a {
+		padding: 11px;
+		font-size: 12px;
+		font-weight: bold;
+		color: #ffffff;
+	}
+}
+@media (max-width: 980px)
+{
+	#slideHome .item {
+		height: 280px;
+		overflow: hidden;
+	}
+	.left_columncateslug
+	{
+		display:none;
+	}
+	.logoMobile img {
+		width: 100px;
+		margin-top: 7px;
+		    margin-right: 44px;
+	}
+	#navClose img {
+		width: 100px;
+		padding: 12px 0;
+	}
+	.changeLanguageMB
+	{
+		position: absolute;
+		top: 11px;
+		right: 15px;
+		}
+        .FormSetDesk{
+                margin-right:10px;
+        }
+}
+@media (max-width: 770px)
+{
+	.input-group{
+              width: 100%;
+              
+        }	
+        .form-group{
+             margin-right: 0px;
+             margin-left: 0px;
+         }
+	
+}
+@media (max-width: 500px)
+{
+		.mbds-block
+		{
+			display:block;
+		}
+		.mbds-none
+		{
+			display:none;
+		}
+	.seectLang {
+	
+		margin-right: 20px;
+	}
+	.logoMobile img {
+		float: none;
+
+	}
+	.changeLanguageMB {
+		position: absolute;
+		top: 11px;
+		right: 0;
+	}
+	.logoMobile img {
+		margin-right: 40px;
+	}
+	.logoMobile img {
+		width: auto;
+		margin-top: 7px;
+		margin-right: 44px;
+	}
+	#navClose img {
+		width: auto;
+		padding: 12px 0;
+	}
+        
+       
+       
+	
+}
+
